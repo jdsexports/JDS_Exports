@@ -148,7 +148,7 @@ const Products = () => {
                     :
                   </span>
                   <span className="ml-10 sm:ml-0 text-brown700 font-bold sm:text-lg">
-                    25 tons per 1x40 IIC(20 Pallets)
+                    25 tons per Pallets
                   </span>
                 </div>
                 <div className="flex items-center flex-wrap sm:flex-nowrap sm:flex-row">
@@ -178,7 +178,7 @@ const Products = () => {
                     :
                   </span>
                   <span className="ml-10 sm:ml-0 text-brown700 font-bold sm:text-lg">
-                    7.5 to 8.5 Lts
+                    15 to 18 Lts
                   </span>
                 </div>
                 <div className="flex items-center flex-wrap sm:flex-nowrap sm:flex-row">
@@ -580,7 +580,7 @@ const Products = () => {
                     :
                   </span>
                   <span className="ml-10 sm:ml-0 text-brown700 font-bold sm:text-lg">
-                    9 - 10 Litres Per KG
+                    15 Litres Per KG
                   </span>
                 </div>
                 <div className="flex items-center flex-wrap sm:flex-nowrap sm:flex-row">
