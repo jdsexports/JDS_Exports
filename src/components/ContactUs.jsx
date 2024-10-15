@@ -39,6 +39,7 @@ const ContactUs = () => {
     const userID = "qmZem_BsSUrir_mN5"; // user id from emailjs
     const templateParams = {
       from_name: formData.name,
+      from_email: formData.email,
       email: formData.email,
       message: formData.message,
     };
