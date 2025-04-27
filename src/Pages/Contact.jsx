@@ -43,7 +43,7 @@ const Contact = () => {
               +91 75020 12602
             </h1>
             <p className="text-[#333333] text-center">
-              Reach out to us anytime; we’re always here for you.
+              Reach out to us anytime - we’re always here for you.
             </p>
           </div>
         </div>
