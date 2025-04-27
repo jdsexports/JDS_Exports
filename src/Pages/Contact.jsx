@@ -33,7 +33,7 @@ const Contact = () => {
               jdsinternationalexports@gmail.com
             </h1>
             <p className="mt-3 text-[#333333] text-center">
-              Email us anytime for any kind roquette
+              Feel free to email us anytime for any kind of request.
             </p>
           </div>
           <div className="text-center border-2 border-brown100 rounded-lg py-10 px-5">
@@ -43,7 +43,7 @@ const Contact = () => {
               +91 75020 12602
             </h1>
             <p className="text-[#333333] text-center">
-              Call us any kind supper, we will wait for it
+              Reach out to us anytime; we’re always here for you.
             </p>
           </div>
         </div>
